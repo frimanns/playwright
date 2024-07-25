@@ -1,7 +1,6 @@
-Install latest LTS version of Node.js
+This is one way to install latest LTS version of Node.js using fnm
 as root
 fnm install --lts
-
 
  FNM_DIR="C:\\Users\\jenfri\\AppData\\Roaming\\fnm"
  $FNM_DIR
