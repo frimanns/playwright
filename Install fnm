@@ -1,0 +1,18 @@
+Instal fnm
+
+
+Install latest LTS version of Node.js
+as root
+fnm install --lts
+
+
+ FNM_DIR="C:\\Users\\jenfri\\AppData\\Roaming\\fnm"
+ $FNM_DIR
+
+Add to PATH C:\Users\jenfri\AppData\Roaming\fnm\node-versions\v20.16.0\installation
+
+add playwright-test extension to vs code
+
+VS code F1: install playwright
+
+
