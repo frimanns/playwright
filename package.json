@@ -1,3 +1,5 @@
+PS  npm init playwright@latest --yes -- --quiet --browser=chromium --browser=firefox --browser=webkit --gha
+
 {
   "name": "playwright-test",
   "version": "1.0.0",
