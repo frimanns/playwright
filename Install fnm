@@ -1,6 +1,3 @@
-Instal fnm
-
-
 Install latest LTS version of Node.js
 as root
 fnm install --lts
