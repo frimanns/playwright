@@ -21,18 +21,7 @@ Here’s a quick [guide](PYTHON.md) to get you started.
 Here’s a quick [guide](VSCODE.md) to get you started.
 
 
-Install Playwright into VS code workspace
-
 ## Prerequisites
 
 Node.js  
 npm
-
-Playwright test can be used in VS Code
-## Installation
-
-
-
-
-
-npm init playwright@latest --yes -- --quiet --browser=chromium  --browser=firefox  --browser=webkit --gha
