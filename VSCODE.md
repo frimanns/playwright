@@ -20,3 +20,33 @@ Using Playwright with Visual Studio Code (VS Code) is a great way to write and r
     * You can run tests in headless mode or with the browser window open to see the actions being performed2.
 
 For more detailed instructions, you can check out the [Playwright documentation](https://playwright.dev/docs/getting-started-vscode)
+
+# Another method is using PowerShell
+
+Use the command npm init playwright@latest --yes -- --quiet --browser=chromium --browser=firefox --browser=webkit --gha 
+
+Example
+
+```bash
+
+mkdir my_web_test
+cd my_web_test
+npm init playwright@latest --yes -- --quiet --browser=chromium --browser=firefox --browser=webkit --gha
+```
+
+
+Here’s a breakdown of what each part does:
+
+```
+
+npm init playwright@latest: Initializes a new Playwright project using the latest version.  
+--yes   Automatically answers 'yes' to any prompts during the setup.  
+--      Forwarding additional options  
+--quiet Runs the command without outputting unnecessary information.  
+--browser=chromium --browser=firefox --browser=webkit  Installs support for Chromium, Firefox, and WebKit browsers.  
+--gha   This flag is specific to setting up GitHub Actions for Playwright.  
+        It configures the project to include a GitHub Actions workflow file for running tests in a CI/CD pipeline123.  
+```
+
+This command is particularly useful for quickly setting up a Playwright project with all necessary configurations for cross-browser testing and continuous integration.
+
