@@ -1,7 +1,0 @@
-This is one way to install latest LTS version of Node.js using fnm
-
-As administrator
-fnm install --lts
-
-Then add  C:\Users\jenfri\AppData\Roaming\fnm\node-versions\v20.16.0\installation to PATH
-
