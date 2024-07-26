@@ -1,9 +1,3 @@
----
-noteId: "338e0a204b2311ef8e71ef30c2ca95bb"
-tags: []
-
----
-
 # Playwright and Python
 
 I have experienced that the following works best using PowerShell
