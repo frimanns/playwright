@@ -36,6 +36,5 @@ npm
 # Youtube Help
 
 <a href="https://www.youtube.com/@Playwrightdev" target="_blank">https://www.youtube.com/@Playwrightdev</a>
-<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 
 
