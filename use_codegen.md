@@ -1,12 +1,4 @@
----
-noteId: "f343b6304bf011ef89a8cf13d3d8d8ce"
-tags: []
-
----
-
 # Generating code using Playwright Codegen
-
-
 
 1. Install Playwright
 

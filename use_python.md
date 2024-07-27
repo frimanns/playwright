@@ -12,7 +12,6 @@ pip install playwright
  playwright install  
 ```
 
-
 # Basic Usage
 
 ```python

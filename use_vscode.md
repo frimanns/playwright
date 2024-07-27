@@ -1,9 +1,3 @@
----
-noteId: "ebf375504bf011ef89a8cf13d3d8d8ce"
-tags: []
-
----
-
 # Playwright in VS Code
 
 Using Playwright with Visual Studio Code (VS Code) is a great way to write and run end-to-end tests for web applications. Here’s a quick guide to get you started
