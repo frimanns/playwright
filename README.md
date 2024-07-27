@@ -18,8 +18,15 @@ Here’s a quick [guide](PYTHON.md) to get you started.
 
 # VS Code
 
+Using Playwright with VS Code is a great way to automate web applications and perform end-to-end testing. 
+
 Here’s a quick [guide](VSCODE.md) to get you started.
 
+# Codegen
+
+Playwright is a powerful tool for end-to-end testing of web applications. If you’re looking to generate code using Playwright, you can use the codegen feature, which helps you record your interactions with a web page and then generates the corresponding code.
+
+Here’s a quick [guide](CODEGEN.md) to get you started.
 
 ## Prerequisites
 
